@@ -10,6 +10,8 @@
 
 <https://youtu.be/Bw8cKjVIezw>
 
+![Shogi](https://user-images.githubusercontent.com/81477294/144761684-fb2cda7a-b853-4296-9425-abcd7c0c6414.gif)
+
 ## Overview
 ### Description
 The program represents an abstract board game called Hasami Shogi. The players start with
