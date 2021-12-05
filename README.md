@@ -7,9 +7,10 @@
 3. [Program Spec](#Program-Spec)
 
 ## Video Demo
-
+### Extended Video
 <https://youtu.be/Bw8cKjVIezw>
 
+### GIF
 ![Shogi](https://user-images.githubusercontent.com/81477294/144761684-fb2cda7a-b853-4296-9425-abcd7c0c6414.gif)
 
 ## Overview
