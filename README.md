@@ -41,10 +41,10 @@ the same rank or file(no jumping). You can capture enemy pieces (one or multiple
 ### 2. Application Details
 
 **App Files**
-* Main.py loads Pygame and display the board.
-* Game.py contains the game mechanics, such as moving and capturing pieces.
-* Board.py stores and updates the Board.
-* Sprites.py stores the sprite associated with each square on the board. Images are loaded from a subfolder in the directory.
+* Main.py - main file which loads Pygame and displays the game.
+* Game.py - contains the game mechanics, such as moving and capturing pieces.
+* Board.py - stores and updates the Board.
+* Sprites.py - stores the sprite associated with each square on the board. Images are loaded from a subfolder in the directory.
 
 ### 3. References
 
