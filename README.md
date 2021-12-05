@@ -20,7 +20,7 @@ nine pieces on the first and last rank(row) of a 9x9 board. Black moves first, f
 player wins by capturing all or all but one of their opponents pieces. Pieces can move to any empty space on
 the same rank or file(no jumping). You can capture enemy pieces (one or multiple) by blocking them on
  opposite sides with two of your pieces( corner pieces must be blocked orthogonally). Win condition is
-#assumed to be all or all but one piece captured.
+assumed to be all or all but one piece captured.
 
 ### Program Evaluation
 - **Category** Gaming
