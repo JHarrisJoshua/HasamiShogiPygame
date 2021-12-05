@@ -33,15 +33,15 @@ the same rank or file(no jumping). You can capture enemy pieces (one or multiple
 * User can play a game of Hasami Shogi via Pygame.
 * Players can view the number of pieces captured by each player, as well as whose turn it is.
 * The game announces when a player has won visually.
-* When a player has one, the user has the option of playing again.
+* When a player has won, the user has the option of playing again.
 
 ### 2. Application Details
 
 **App Files**
-* HasamiSogi.py is the Main file, where the program will load Pygame and display the board.
+* Main.py loads Pygame and display the board.
 * Game.py contains the game mechanics, such as moving and capturing pieces.
-* Board.py stores the Board as an object.
-* Sprites.py stores the sprite associated with each square on the board as an object. Images are loaded from a subfolder in the directory.
+* Board.py stores and updates the Board.
+* Sprites.py stores the sprite associated with each square on the board. Images are loaded from a subfolder in the directory.
 
 ### 3. References
 
