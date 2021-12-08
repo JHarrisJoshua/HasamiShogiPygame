@@ -35,7 +35,7 @@ assumed to be all or all but one piece captured.
 **User Stories**
 * User can play a game of Hasami Shogi via Pygame.
 * Players can view the number of pieces captured by each player, as well as whose turn it is.
-* The game announces when a player has won visually.
+* The game announces when a player has won.
 * When a player has won, the user has the option of playing again.
 
 ### 2. Application Details
