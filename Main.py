@@ -73,10 +73,11 @@ def main():
                 # First square selected - From Square
                 if select_count == 0:
                     from_row, from_col = game_board.get_square(mouse_x, mouse_y)
-                    if game.get_active_player()[0] == game_board.get_square_state(from_row, from_col):
-                        select_count = 1
-                        # Show possible moves
-                        game.show_moves(from_row, from_col)
+                    if from_row is not None and from_col is not None:
+                        if game.get_active_player()[0] == game_board.get_square_state(from_row, from_col):
+                            select_count = 1
+                            # Show possible moves
+                            game.show_moves(from_row, from_col)
                 # No selection
                 if select_count is None:
                     select_count = 0
